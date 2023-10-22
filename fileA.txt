@@ -1,2 +1,5 @@
 feature1 with 1 bug
 feature2
+feature2
+=======
+master
